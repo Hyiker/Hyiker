@@ -1,7 +1,7 @@
 ### Hi there, I'm Hyiker Hu 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact" width='400"' />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact" width='350"' />
 
 ```
 🚀 Interested in Computer Graphics & Computer Structure
