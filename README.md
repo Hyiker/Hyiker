@@ -9,5 +9,4 @@
 💻 Currently major in Computer Science
 🦀 Recently learning Rust, wide range of language usage(except PHP)
 🌏 Always Online and 1001% energetic⚡
-📖️ Busy with course design
 ```
