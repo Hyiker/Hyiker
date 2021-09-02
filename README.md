@@ -5,8 +5,8 @@
 
 ```
 🚀 Interested in Computer Graphics & Computer Structure
-🖤 Hate math & Machine🤖️Learning
+🖤 Machine🤖️Learning is not my dish
 💻 Currently major in Computer Science
 🦀 Recently learning Rust, wide range of language usage(except PHP)
-🌏 Always Online and 1001% energetic⚡
+🌏 25/8 Online and 1001% energetic⚡
 ```
