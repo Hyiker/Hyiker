@@ -4,7 +4,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact&exclude_repo=hyiker-blog,hyiker.github.io,CampusNavigation" width='350"' />
 
 ```
-🚀 Interested in Computer Graphics & Computer Structure
+🍵️ Interested in Computer Graphics & Computer Architecture
+🚀️ Do well in full-stack development
 🖤 Machine🤖️Learning is not my dish
 💻 Currently major in Computer Science
 🦀 Recently learning Rust, wide range of language usage(except PHP)
