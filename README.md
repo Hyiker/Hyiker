@@ -7,7 +7,7 @@
 🍵️ Interested in Computer Graphics & Computer Architecture
 🚀️ Do well in full-stack development
 🖤 Machine🤖️Learning? Not my dish
-💻 Currently major in Computer Science
+💻 Currently major in Data Science
 🦀 Recently learning Rust, wide range of language usage(except PHP)
 🌏 25/8 Online and 1001% energetic⚡
 😀 Enjoy life, code my way
