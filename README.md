@@ -9,6 +9,6 @@
 💻 Undergraduate, major in Data Science
 💼 Working on Computer Graphics
 🔥 A motivation day dreamer
-✨ In favor of C++
+✨ Rendering and C++
 😀 Enjoy learning
 ```
