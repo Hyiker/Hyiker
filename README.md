@@ -4,7 +4,7 @@ By now, I am an undergraduate from BUPT.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hyiker&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=swift" height="150" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact&exclude_repo=hyiker-blog,hyiker.github.io,CampusNavigation&theme=swift&custom_title=Languages&hide=Fortran" height="150" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact&exclude_repo=hyiker-blog,hyiker.github.io,CampusNavigation&theme=swift&custom_title=Languages&hide=Fortran,HTML,CMake" height="150" />
 
 
 
