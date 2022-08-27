@@ -16,9 +16,7 @@ So far, I am working for CS bachelor degree in BUPT.
                
 <td width="50%">
 &nbsp;<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hyiker&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=swift" width="60%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyiker&layout=compact&exclude_repo=hyiker-blog,hyiker.github.io,CampusNavigation&theme=swift&custom_title=Languages&hide=Fortran,HTML,CMake" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hyiker&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=swift" width="70%"/>
   </p>
 
 </td>
