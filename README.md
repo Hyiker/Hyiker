@@ -7,7 +7,7 @@ So far, I am working for CS bachelor degree in BUPT.
   <td width="50%">
 
 - Research interests mainly include **Realistic Rendering** and **HPC(Parallel Computing)**. I'm trying to put more efforts on **Differentiable Rendering**.
-- Working on **Subsurface Scattering(SSS)** and **Realtime Global Illumination** research recently.
+- Working on **Participanting Media/Volume Rendering** and **Realtime Global Illumination** research recently.
 - Learning *CUDA* Language, reading ***RTR4*** and ***GPU Gems***.
 - Language preference: C++ > C > Python > Java > ...
 - 想和优秀的人一起做杰出的事 Wanna achieve outstanding goals with excellent people
