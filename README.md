@@ -16,7 +16,7 @@ So far, I am working for CS bachelor degree in BUPT.
                
 <td width="50%">
 &nbsp;<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hyiker&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=swift" width="70%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hyiker&count_private=true&hide_title=true&hide_rank=true&show_icons=true&theme=swift" width="70%"/>
   </p>
 
 </td>
