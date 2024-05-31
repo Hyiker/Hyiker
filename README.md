@@ -1,6 +1,6 @@
 ### Hi there, I'm Carbene Hu 👋
 
-So far, I am working for CS bachelor degree in BUPT.
+So far, I am working for CS bachelor degree.
 
 
 - Research interests mainly include **Realistic Rendering** and **HPC(Parallel Computing)**. I'm trying to put more efforts on **Differentiable Rendering** and **Neural Rendering**.
