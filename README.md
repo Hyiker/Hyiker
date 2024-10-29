@@ -2,7 +2,7 @@
 
 So far, I am working for my PhD degree at ZJU. 
 
-- My: [resume](chonghao.carbene.cc); [blog](carbene.cc).
+- My: [resume(en)](https://chonghao.carbene.cc); [blog(zh)](https://blog.carbene.cc).
 
 - Research interests mainly include **Realistic Rendering** and **HPC(Parallel Computing)**. I'm trying to put more efforts on **Differentiable Rendering** and **Neural Rendering**.
 - Working on **High performance rendering** and **Realtime global illumination** research recently.
