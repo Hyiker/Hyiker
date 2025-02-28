@@ -1,6 +1,6 @@
 ### Hi there, I'm Carbene Hu 👋
 
-So far, I am pursuing my PhD degree at Zhejiang University. 
+So far, I am pursuing my PhD degree at Zhejiang University. Reach me at hyikerhu0212[at]gmail[dot]com.
 
 - My: [resume(en)](https://chonghao.carbene.cc); [blog(zh)](https://blog.carbene.cc).
 
